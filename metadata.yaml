@@ -1,0 +1,46 @@
+_repo: Memoirs-and-Historical-Chronicles-of-the-Courts-of-Europe--13-Memoirs-of-Marguerite-de-Valois__12967
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Du Hausset, Mme.
+    aliases:
+    - Hausset, Mme. Du
+    - Du Hausset, Madame
+    gutenberg_agent_id: '1333'
+    url: http://www.gutenberg.org/2009/agents/1333
+  - agent_name: Marguerite, Queen, consort of Henry IV, King of France
+    alias: Valois, Marguerite de
+    birthdate: 1553
+    deathdate: 1615
+    gutenberg_agent_id: '1328'
+    url: http://www.gutenberg.org/2009/agents/1328
+    wikipedia: http://en.wikipedia.org/wiki/Marguerite_de_Valois
+  - agent_name: Brantôme, Pierre de Bourdeille
+    aliases:
+    - Bourdeille, Pierre, seigneur de Brantôme
+    - De Bourdeille, Pierre, seigneur de Brantôme
+    - Brantome, Pierre de Bourdeille, seigneur de
+    deathdate: 1614
+    gutenberg_agent_id: '39903'
+    url: http://www.gutenberg.org/2009/agents/39903
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pompadour, Jeanne Antoinette Poisson, marquise de, 1721-1764'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+- !lcsh 'Marguerite, Queen, consort of Henry IV, King of France, 1553-1615'
+- !lcsh 'Catherine de Médicis, Queen, consort of Henry II, King of France, 1519-1589'
+- GITenberg
+title: "Memoirs and Historical Chronicles of the Courts of Europe\r\nMemoirs of Marguerite\
+  \ de Valois, Queen of France, Wife of Henri IV; of Madame de Pompadour of the Court\
+  \ of Louis XV; and of Catherine de Medici, Queen of France, Wife of Henri II"
+url: http://www.gutenberg.org/ebooks/12967
