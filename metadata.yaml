@@ -1,5 +1,8 @@
 _repo: Memoirs-and-Historical-Chronicles-of-the-Courts-of-Europe--13-Memoirs-of-Marguerite-de-Valois__12967
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Du Hausset, Mme.
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39903
     wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12967#Memoirs-and-Historical-Chronicles-of-the-Courts-of-Europe--13-Memoirs-of-Marguerite-de-Valois_
 gutenberg_issued: '2004-07-20'
 gutenberg_type: Text
 identifiers:
